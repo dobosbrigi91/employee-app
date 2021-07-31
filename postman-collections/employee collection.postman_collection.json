@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "employees/{id}",
+			"name": "employees",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true,
 				"disabledSystemHeaders": {}
